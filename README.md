@@ -184,7 +184,7 @@ Then, back in `GIT BASH` we can then type `git status`. Here we can see that git
 
 In Git, **staging** (also called the staging area or index) is the intermediate step between editing files in your working directory and committing them to the repository. Think of it as a "draft board" where you prepare and review changes before making them permanent in the project history.
 
-How Staging Works
+### Stages in Git
 - **Working Directory**: Where you edit files (new, modified, or deleted).
 
 - **Staging Area**: A holding space where you place selected changes using git add.
